@@ -5,12 +5,11 @@ In this module we connected the back end with the front end of a Note Taking web
 
 
 ## Usage Instructions
-1. Click here to open the [Deployed Application Link:](https://e-js-note.herokuapp.com/)
+1. Click here to open the [Deployed Application Link:](https://pure-dusk-28456-acfa92207de7.herokuapp.com/)
 2. Click "Get Started" to open the note taker.
-3. Enter text into the 'title' and 'text' fields 
-4. Click the save icon (top right) to save the note.
-5. Click the + icon (top right) to add another note.
-6. Additional: Click the trash icon to delete saved notes.
+3. Enter any text into the following fields.
+4. Click the save icon in the top right to save the note.
+5. To add more notes, hit the + icon.
 
 ## Deployed Link:
 [Deployed Application Link:](https://pure-dusk-28456-acfa92207de7.herokuapp.com/)
