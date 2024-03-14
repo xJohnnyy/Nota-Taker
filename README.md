@@ -13,12 +13,12 @@ In this module we connected the back end with the front end of a Note Taking web
 6. Additional: Click the trash icon to delete saved notes.
 
 ## Deployed Link:
-[Deployed Application Link:](https://e-js-note.herokuapp.com/)
+[Deployed Application Link:](https://pure-dusk-28456-acfa92207de7.herokuapp.com/)
 
 
 ## Usage:
 ###
-![](/public/assets/images/Screenshot.png) 
+![](/public/assets/images/App.gif)
 
 ##  Credits
 Credits to miniature-eureka repository for providing the starting code for this application. 
